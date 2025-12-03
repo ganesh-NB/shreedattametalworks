@@ -1,11 +1,20 @@
 export default function Gallery() {
   const images = [
-    "https://images.unsplash.com/photo-1581092795360-f13d5c881d5f",
-    "https://images.unsplash.com/photo-1592813630413-3f43e7f4a216",
-    "https://images.unsplash.com/photo-1581090700227-263f8b6adc24",
-    "https://images.unsplash.com/photo-1581093588401-06cd5f4e8f4a",
-    "https://images.unsplash.com/photo-1621905251189-08b46a66ff80",
-    "https://images.unsplash.com/photo-1533158326339-7f3cf240435a",
+"WhatsApp Image 2025-12-03 at 20.16.19_6e78dba0.jpg",
+"WhatsApp Image 2025-12-03 at 20.16.19_24dd0eeb.jpg",
+"WhatsApp Image 2025-12-03 at 20.16.19_ef5d79b3.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.05_7e192761.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.05_b5ff7fd9.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.06_cd720616.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.13_ed31d839.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.14_5f4ff7a3.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.36_1dae0f30.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.40_171e90fe.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.41_61350078.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.45_af178625.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.46_6face30a.jpg",
+"WhatsApp Image 2025-12-03 at 20.19.48_456324c3.jpg",
+"WhatsApp Image 2025-12-03 at 20.17.08_cf629d3b.jpg"
   ];
 
   return (
